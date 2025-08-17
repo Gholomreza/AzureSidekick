@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSidekick", "AzureSidekick\AzureSidekick.csproj", "{F3B1B8B9-F7A5-4729-A318-572B640EBD1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3B1B8B9-F7A5-4729-A318-572B640EBD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B1B8B9-F7A5-4729-A318-572B640EBD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B1B8B9-F7A5-4729-A318-572B640EBD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B1B8B9-F7A5-4729-A318-572B640EBD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD99855-3082-4565-89CF-66A5FA4190C3}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mars.baridsoft.ir/tfs/fonixcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AzureSidekick\\AzureSidekick.csproj
+		SccProjectName1 = AzureSidekick
+		SccLocalPath1 = AzureSidekick
+	EndGlobalSection
+EndGlobal
