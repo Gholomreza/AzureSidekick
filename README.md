@@ -1,0 +1,2 @@
+# AzureSidekick
+Azure DevOps Sidekick
