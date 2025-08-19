@@ -181,7 +181,7 @@ namespace Attrice.TeamFoundation.Sidekicks
       {
         Cursor.Current = Cursors.WaitCursor;
         _controller = null;
-        _controller = new TfsController(ApplicationMain.Configuration.TfsServer);//, "3pfcn5ox6udvozqet5cqwqeingbbj34gbxppry72ttou4fisesba");
+        _controller = new TfsController(ApplicationMain.Configuration.TfsServer);
         GetUsers();
       }
       catch (Exception ex)
